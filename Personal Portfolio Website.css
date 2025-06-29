@@ -37,7 +37,7 @@ body {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  gap: 30px;
+  gap: 50px;
   list-style-type: none;
 }
 
@@ -50,6 +50,10 @@ ul a {
   text-decoration: none;
   color: white;
   transition: 0.3s;
+}
+
+#nav-menu{
+
 }
 
 .navbar a:hover {
@@ -97,7 +101,7 @@ main {
 }
 
 #intro h1 {
-  color: hsl(36, 94%, 48%);
+color: rgb(255, 196, 0);
 }
 
 #intro h3 {
@@ -116,7 +120,8 @@ main {
   color: white;
   padding: 12px 20px;
   border-radius: 10px;
-  border: 1px solid rgba(225, 225, 225, 0.18);
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.37);
+  border: 1px solid rgba(225, 225, 225, 0.1);
   background: rgba(225, 225, 225, 0);
   backdrop-filter: blur(10px);
   cursor: pointer;
@@ -206,4 +211,7 @@ main {
     margin: 0 auto;
     width: 90%;
   }
+  #intro, #btn{
+      margin:5px;
+    }
 }
