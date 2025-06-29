@@ -52,9 +52,7 @@ ul a {
   transition: 0.3s;
 }
 
-#nav-menu{
 
-}
 
 .navbar a:hover {
   color: rgb(255, 208, 0);
@@ -283,6 +281,44 @@ color: rgb(255, 196, 0);
   text-decoration: none;
   color: #007bff;
   margin: 0 5px;
+}
+
+/*========thankyou page=====*/
+
+.thank-you-container {
+  max-width: 600px;
+  margin: 100px auto;
+  text-align: center;
+  padding: 40px;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.37);
+  border-radius: 30px;
+  border: 1px solid rgba(225, 225, 225, 0.18);
+  background: rgba(225, 225, 225, 0);
+  backdrop-filter: blur(10px);
+  animation: fadeIn 3s ease-in;
+}
+
+.thank-you-container h1 {
+  font-size: 2.5em;
+  margin-bottom: 10px;
+}
+
+.thank-you-container p {
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+
+.back-home {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #222;
+  color: white;
+  border-radius: 8px;
+  text-decoration: none;
+}
+
+.back-home:hover {
+  background-color: #444;
 }
 
 
