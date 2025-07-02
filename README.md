@@ -40,28 +40,16 @@ Hi! I’m **Tshepang Oliver**, a frontend developer in training with a passion f
 ## 📇 Author
 
 **Tshepang Oliver**  
-Frontend Developer | FNB App Academy 2025  | IT Varsity
+FullStack Developer 
 - 🔗 [GitHub](https://github.com/T5H3P4N9)  
+- 🔗 [website](https://t5h3p4n9.github.io/portfolio-2/)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/tshepang-oliver-3a5540205/)  
 - 📧 [Email](mailto:olivertshepang@gmail.com)
 
----
 
-### 🚀 Deployment
 
-You can deploy this site easily using:
 
-- [GitHub Pages](https://pages.github.com/)
-- [Netlify](https://netlify.com/)
-- [Vercel](https://vercel.com/)
 
----
 
-Would you like me to help you:
-- Generate the preview image/banner?
-- Host the site live on GitHub Pages?
-- Polish your LinkedIn post once it's ready?
-
-Let’s launch your portfolio the right way.
 
 
